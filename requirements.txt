@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+python-jose[cryptography]
+passlib[bcrypt]
+dotenv
+apscheduler
+openai
+python-multipart # For form data/uploads
+email-validator # For email validation in pydantic/sqlmodel
+
+
+pydantic-settings
+
